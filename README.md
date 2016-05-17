@@ -16,3 +16,13 @@ Seperti contoh diatas "11001000". Perhatikan letak bit dan angkanya. Kita lihat 
 bit 1 + bit 2 + bit 5 = decimal
 
 128 + 64 + 8 = 200
+
+Contoh:
+11010001.00001100.00100010.01001000
+
+* 11010001 = 128 + 64 + 16 + 1 = 209
+* 00001100 = 8 + 4 = 12
+* 00100010 = 2 + 32 = 34
+* 01001000 = 64 + 8 = 72
+
+jadi 209.12.34.72
